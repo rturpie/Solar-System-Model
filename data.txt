@@ -1,0 +1,22 @@
+The orbit of Mercury is: 89.44764552354373 days, 
+and the apo- and periapses are (respectively): (70101378828.1988, 46006189482.697525) metres. 
+The orbit of Venus is: 227.67902407112342 days, 
+and the apo- and periapses are (respectively): (108953845669.38115, 107476508136.57094) metres. 
+The orbit of Earth is: 370.1545810993584 days, 
+and the apo- and periapses are (respectively): (152145786722.53644, 147091064621.16098) metres. 
+The orbit of Mars is: 696.55155878572 days, 
+and the apo- and periapses are (respectively): (249354060724.6135, 206616514015.9074) metres. 
+The orbit of Jupiter is: 4387.413989513943 days, 
+and the apo- and periapses are (respectively): (816360767576.5055, 739466651432.7256) metres. 
+The orbit of Saturn is: 10908.589602785394 days, 
+and the apo- and periapses are (respectively): (1507635767619.7986, 1346911077102.1985) metres. 
+The orbit of Uranus is: 31108.795985575496 days, 
+and the apo- and periapses are (respectively): (3010128816939.203, 2735611184091.0005) metres. 
+The orbit of Neptune is: 60879.89980517082 days, 
+and the apo- and periapses are (respectively): (4539357059015.065, 4457321416731.542) metres. 
+The orbit of Pluto is: 89716.25022469989 days, 
+and the apo- and periapses are (respectively): (7276867808320.566, 4419026617080.052) metres. 
+The orbit of the Moon is: 28.099231850673803 days, 
+and the apo- and periapses are (respectively): (412869068.75091285, 358780502.400958) metres. 
+The orbit of Halleys_Comet is: 25548.695542873018 days, 
+and the apo- and periapses are (respectively): (5257618325710.542, 87965928885.81648) metres. 
